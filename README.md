@@ -42,4 +42,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 - Janriz Mathew Libres - [libres.janriz@gmail.com](mailto:libres.janriz@gmail.com)
-- LinkedIn: [Profile](https://www.linkedin.com/in/janriz-mathew-libres-3a81bb228/)
+  - LinkedIn: [Profile](https://www.linkedin.com/in/janriz-mathew-libres-3a81bb228/)
+- Clint Jonathan Galendez - [galendez.clintjonathan@gmail.com](mailto:galendez.clintjonathan@gmail.com)
+  - LinkedIn: [Profile](https://www.linkedin.com/in/clintgalendez/)
